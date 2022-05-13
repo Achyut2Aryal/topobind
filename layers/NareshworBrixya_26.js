@@ -1,0 +1,1 @@
+var json_NareshworBrixya_26 = {"type":"FeatureCollection","name":"NareshworBrixya_26","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"58","name":"२५३ वर्ष पुरानो नारेश्वोरको बृक्ष"},"geometry":{"type":"Point","coordinates":[83.984046754788139,28.237439897870473]}}]}
